@@ -1,5 +1,35 @@
 =====================
-=    02-Apr-2019    =
+     02-Jun-2019    
+=====================
+Device Changelog
+- Added MiuiCamera
+- Kernel upstreamed built with clang 9.0.3
+- Migrate to LiveDisplay 2.0
+Oreo Fw Only
+Rom Changelog - v1.8
+- Added Live Display
+- Added Gboard GO
+- Added Battery Styles
+- May Security Patch Included
+- Battery Percentage
+- Updated Lawnchair
+- Added Q Style LockClock
+- Added Q Style Battery
+- Fix Crash When Clicking On Display Options In Dialer
+- Reduced Margin For Q Clock (More Notifications Can Be Viewed)
+- Align Date With Clock
+- Added OTA service
+- Added advance location tile
+- Fixed miui ported cams crashing on various devices
+- Animate expanded layout
+- Added OneplusRed accent
+- Fixed Google calculator missing
+- Bring back nav bar layout editor in System UI Tuner
+- Per App brightness and camera hal1 settings
+
+
+=====================
+     02-Apr-2019     
 =====================
 Device Changelog
 - Update dpi to 440
@@ -11,8 +41,7 @@ Device Changelog
 Rom Changelog - v1.7
 - Removed some duplicate settings which is available in den 
 - Added QS brightness slider customisation 
-- Added QS
-row and column customisation 
+- Added QS row and column customisation 
 - Reworked on Expanded Volume panel and adapted from POSP
 - Added Timer Music Player
 - Added MiXplorer
@@ -21,7 +50,7 @@ row and column customisation
 
 
 =====================
-=    15-Mar-2019    =
+     15-Mar-2019     
 =====================
 Device Changelog
 - Kernel Updated Derp 5.0
@@ -45,6 +74,6 @@ Many more. Major Changes not everything listed
 
 
 =====================
-=    19-Feb-2019    =
+     19-Feb-2019     
 =====================
 - Initial Release

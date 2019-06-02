@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": "1558539782",
-      "filename": "CerberusOS-v1.8-20190523-Pie4-whyred-OFFICIAL.zip",
-      "id": "6f8334dee9387bfaa23d12e33cf458f0",
+      "datetime": "1559455238",
+      "filename": "CerberusOS-v1.8-20190602-Pie4-whyred-OFFICIAL.zip",
+      "id": "76c505d3b82801fb5d917a90cba79cb5",
       "romtype": "OFFICIAL",
-      "size": 719282414,
-      "url": "https://master.dl.sourceforge.net/project/cerberusos/builds/whyred/CerberusOS-v1.8-20190523-Pie4-whyred-OFFICIAL.zip",
+      "size": 719252464,
+      "url": "https://master.dl.sourceforge.net/project/cerberusos/builds/whyred/CerberusOS-v1.8-20190602-Pie4-whyred-OFFICIAL.zip",
       "version": "v1.8"
     }
   ]
