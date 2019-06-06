@@ -1,0 +1,76 @@
+=====================
+     02-Jun-2019    
+=====================
+Device Changelog
+- Kernel Updated clang4.4
+- Fix network bug 
+- improve perfomance
+
+Rom Changelog - v1.8
+- Added Live Display
+- Added Gboard GO
+- Added Battery Styles
+- May Security Patch Included
+- Battery Percentage
+- Updated Lawnchair
+- Added Q Style LockClock
+- Added Q Style Battery
+- Fix Crash When Clicking On Display Options In Dialer
+- Reduced Margin For Q Clock (More Notifications Can Be Viewed)
+- Align Date With Clock
+- Added OTA service
+- Added advance location tile
+- Fixed miui ported cams crashing on various devices
+- Animate expanded layout
+- Added OneplusRed accent
+- Fixed Google calculator missing
+- Bring back nav bar layout editor in System UI Tuner
+- Per App brightness and camera hal1 settings
+
+
+=====================
+     02-Apr-2019     
+=====================
+Device Changelog
+- Update dpi to 440
+- Add back perf profiles into proprietary files
+- Add USB initialization to init.target.rc 
+- Set required vendor properties for sdm660
+- Re-enable port-bridge service
+- Enable Wi-Fi MAC randomization
+Rom Changelog - v1.7
+- Removed some duplicate settings which is available in den 
+- Added QS brightness slider customisation 
+- Added QS row and column customisation 
+- Reworked on Expanded Volume panel and adapted from POSP
+- Added Timer Music Player
+- Added MiXplorer
+- Replaced gallery with camera roll
+- Replaced stock aosp clock with google clock
+
+
+=====================
+     15-Mar-2019     
+=====================
+
+Rom Changelog - v1.6
+- March security patch 
+- Added Cerberus' Den (Lots of customisation see feature list) 
+- Added Themes 
+- Added Google sans font 
+- Update lawnchair to CI aplha-943 
+- Add OS wide permissions and whitelist 
+- Added Omni Record 
+- Added Slim Recents 
+- Added various new QS Tiles 
+- Added increasing Ringtone feature - Add switch for linked ring and media notification volumes 
+- Phone ringtone setting for Multi SIM device 
+- App ops from Oreo 
+- Added volte icon from ASUS PIE 
+Many more. Major Changes not everything listed
+
+
+=====================
+     19-Feb-2019     
+=====================
+- Initial Release
