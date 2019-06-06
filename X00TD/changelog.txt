@@ -1,0 +1,7 @@
+=====================
+=    06-June-2019    =
+=====================
+Device Changelog
+-Updated To 339fw
+-Added Sim Toggle
+-Kernel Upstreamed
