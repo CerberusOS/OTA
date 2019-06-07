@@ -1,9 +1,13 @@
 {
-   "datetime":"1559813221",
-   "filename":"CerberusOS-v1.8-20190606-Pie4-X00TD-OFFICIAL.zip",
-   "id":"18ed3cd806e64c66244e4bd50ff8432c",
-   "romtype": "Official",
-   "size":660104089,
-   "url":"https://master.dl.sourceforge.net/project/cerberusos/builds/X00TD/CerberusOS-v1.8-20190606-Pie4-X00TD-OFFICIAL.zip",
-   "version": "v1.8"
+  "response": [
+    {
+      "datetime": "1559813221",
+      "filename": "CerberusOS-v1.8-20190606-Pie4-X00TD-OFFICIAL.zip",
+      "id": "18ed3cd806e64c66244e4bd50ff8432c",
+      "romtype": "Official",
+      "size": 660104089,
+      "url": "https://master.dl.sourceforge.net/project/cerberusos/builds/X00TD/CerberusOS-v1.8-20190606-Pie4-X00TD-OFFICIAL.zip",
+      "version": "v1.8"
+    }
+  ]
 }
