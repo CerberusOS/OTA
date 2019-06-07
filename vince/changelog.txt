@@ -1,0 +1,17 @@
+=====================
+     07-JUN-2019   
+=====================
+Device Changelog:
+- Changed kernel to Dark Ages kernel 
+
+=====================
+     05-April-2019   
+=====================
+Device Changelog:
+- Changed kernel to DAB kernel 
+
+=====================
+     16-MARCH-2019   
+=====================
+Device Changelog:
+- Initial Build
