@@ -1,4 +1,10 @@
 =====================
+     08-JUN-2019   
+=====================
+Device Changelog:
+- Jun Security Patches 
+
+=====================
      07-JUN-2019   
 =====================
 Device Changelog:
