@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "datetime": "1559886446",
-      "filename": "CerberusOS-v1.8-20190607-Pie4-vince-OFFICIAL.zip",
-      "id": "47ddd6c3e1659170069683a629075002",
+      "datetime": "1559979230",
+      "filename": "CerberusOS-v1.8.1-20190608-Pie4-vince-OFFICIAL.zip",
+      "id": "84d1cf338500e855bfc8bb30762f53e1",
       "romtype": "OFFICIAL",
-      "size": 625893893,
-      "url": "https://master.dl.sourceforge.net/project/cerberusos/builds/vince/CerberusOS-v1.8-20190607-Pie4-vince-OFFICIAL.zip",
-      "version": "v1.8"
+      "size": 625751898,
+      "url": "https://master.dl.sourceforge.net/project/cerberusos/builds/vince/CerberusOS-v1.8.1-20190608-Pie4-vince-OFFICIAL.zip",
+      "version": "v1.8.1"
     }
   ]
 }
