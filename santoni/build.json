@@ -1,11 +1,11 @@
 {
   "response": [
     {
-      "datetime": "1561040780",
-      "filename": "CerberusOS-v1.8.1-20190620-Pie4-santoni-OFFICIAL.zip" ,
-      "id": "c8fc602f2416fc88ea4bd9f5cdc7ee70",
-      "romtype": "OFFICIAL",
-      "size": 580911104,
+      "datetime":"1560964704",
+      "filename":"CerberusOS-v1.8.1-20190620-Pie4-santoni-OFFICIAL.zip",
+      "size":580453604,
+      "id":"c8fc602f2416fc88ea4bd9f5cdc7ee70"
+      "romtype":"OFFICIAL", 
       "url": "https://master.dl.sourceforge.net/project/cerberusos/builds/santoni/CerberusOS-v1.8.1-20190620-Pie4-santoni-OFFICIAL.zip",
       "version": "v1.8.1"
     }
