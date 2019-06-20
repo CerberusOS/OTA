@@ -1,0 +1,7 @@
+=====================
+     20-JUN-2019   
+=====================
+Device Changelog:
+- Kernel upstreamed to 3.18.140
+Rom Changelog - v1.8.1 :
+- June security patch and improvements 
