@@ -15,4 +15,15 @@
 - Added some performance tweaks
 - Added F2FS support
 
+=====================
+=    06-Jul-2019    =
+=====================
+- Fix F2FS Support
+- Update Vendor Blobs
+- Fix Bootloop
+- July Security Patch
+- Added Hal3 switch
+- Added Mi sound enhancer
+- Updated to CerberusOS v1.8.2
+
   
