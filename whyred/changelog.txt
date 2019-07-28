@@ -1,6 +1,7 @@
 =====================
      28-Jul-2019    
 =====================
+*Pie Firmware Only
 Device Changelog
  - Built with clang 9.0.5
  - Enable DFS channel scanning in P2P search
@@ -14,8 +15,8 @@ Device Changelog
  - set TARGET_HAS_NO_WLAN_STATS & set TARGET_HAS_NO_POWER_STATS 
  - Remove unnecessary TARGET_USES_MKE2FS
 Rom Changelog - v1.8
-- July Security Patch
-- Update lawnchair to CI Alpha-2229
+ - July Security Patch
+ - Update lawnchair to CI Alpha-2229
 
 
 =====================
