@@ -1,4 +1,18 @@
 =====================
+     11-Aug-2019    
+=====================
+Rom Changelog - v1.8.3
+ - August Security Patches
+ - Fixed Navigation bar behaiviour
+ - Volte icon reverted to asus oreo
+ - Added Statusbar clock/date customisation
+ - Some refactors in den app
+ - improved live display
+ - Added back Night Light
+ - Decrease padding for statusbar icons
+
+
+=====================
      28-Jul-2019    
 =====================
 *Pie Firmware Only
@@ -14,7 +28,7 @@ Device Changelog
  - Update GPS from LA.UM.7.2.r1-07000-sdm660.0
  - set TARGET_HAS_NO_WLAN_STATS & set TARGET_HAS_NO_POWER_STATS 
  - Remove unnecessary TARGET_USES_MKE2FS
-Rom Changelog - v1.8
+Rom Changelog - v1.8.2
  - July Security Patch
  - Update lawnchair to CI Alpha-2229
 
