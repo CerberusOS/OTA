@@ -10,6 +10,7 @@ Rom Changelog - v1.8.3
  - improved live display
  - Added back Night Light
  - Decrease padding for statusbar icons
+ - Removed MiXplorer & CameraRoll
 
 
 =====================
