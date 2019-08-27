@@ -1,0 +1,13 @@
+{
+  "response": [
+    {
+      "datetime": "1566755877",
+      "filename": "CerberusOS-v1.8.3-20190825-Pie4-on7xelte-OFFICIAL.zip",
+      "id": "046c58fc349e3e186451a9c63b4a6e6b",
+      "romtype": "OFFICIAL",
+      "size": 369586773,
+      "url": "https://master.dl.sourceforge.net/project/cerberusos/builds/on7xelte/CerberusOS-v1.8.3-20190825-Pie4-on7xelte-OFFICIAL.zip",
+      "version": "v1.8.3"
+    }
+  ]
+}
