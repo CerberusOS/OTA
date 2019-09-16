@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "datetime": "1562378154",
-      "filename": "CerberusOS-v1.8.2-20190706-Pie4-lavender-OFFICIAL.zip",
-      "id": "7afc38786ac90053c91d946e60ba2887",
+      "datetime": "1538026792",
+      "filename": "CerberusOS-v1.8.3-20190915-Pie4-lavender-OFFICIAL.zip",
+      "id": "bd40a34ec86f0fffaeb8ee11c3b04c0c",
       "romtype": "Official",
-      "size": 788486670,
-      "url": "https://master.dl.sourceforge.net/project/cerberusos/builds/lavender/CerberusOS-v1.8.2-20190706-Pie4-lavender-OFFICIAL.zip",
-      "version": "v1.8.2"
+      "size": 768792639,
+      "url": "https://master.dl.sourceforge.net/project/cerberusos/builds/lavender/CerberusOS-v1.8.3-20190915-Pie4-lavender-OFFICIAL.zip",
+      "version": "v1.8.3"
     }
   ]
 }
