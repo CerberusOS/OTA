@@ -27,10 +27,12 @@
 - Updated to CerberusOS v1.8.2
 
 =====================
-=    06-Jul-2019    =
+=    16-Sep-2019    =
 =====================
 - Fix GCAM slowmo lag
 - Fix WhatsApp VC lag
+- Improve SystemUI smoothness
+- stock kernel .153
 - Initial September Patch
 - Updated to CerberusOS v1.8.3
 
